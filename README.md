@@ -13,7 +13,6 @@ This repository contains a fully interactive **Ecommerce Sales Dashboard** built
 - **Slicers for State and Quarter** – fully interactive filtering
 
 ## 🖼️ Dashboard Preview
-
 ![Dashboard View 1](Image1.png)  
 ![Dashboard View 2](Image2.png)  
 ![Dashboard View 3](Image3.png)
